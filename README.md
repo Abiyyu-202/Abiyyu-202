@@ -30,7 +30,9 @@ Kalo ada yang nanya kenapa di github ku ga ada file php nya, karena males nguplo
 ## 📊 GitHub Stats
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=Abiyyu-202&show_icons=true&theme=dark) ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abiyyu-202&layout=compact&theme=dark)
+![stats-card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abiyyu-202&theme=dark)
+
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abiyyu-202&theme=dark) ![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abiyyu-202&theme=dark)
 
 </div>
 
