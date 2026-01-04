@@ -1,44 +1,53 @@
 <div align="center">
 
-# 👋 Hi, I'm **ToHeartz** a.k.a **Abiyyu**  <img src="assets/gepeng.png" width="100" alt="Profile" style="margin-left: 20px;">
+
+
+# Hi, I'm **ToHeartz** (Abiyyu) <img src="assets/gepeng.png" width="120" alt="Profile"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=38BDAE&center=true&vCenter=true&width=520&lines=Linux+User+(Arch+btw);Rarely+Coding+These+Days;Mostly+Configuring+Stuff;Learning+Things+at+My+Own+Pace" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=arch,php,js,bash,linux,git&theme=dark" />
 
 </div>
 
-## 🎨 About Me
+---
 
-Aku Murid SMK biasa yang pengen hidup tenang. Aku suka **fotografi** dan **PHP** (walau cacad ngoding :v), hobi ngotak-atik Linux, dan... yeah, mostly cuma pengen santai hidup.
+## About Me
 
-Kalo ada yang nanya kenapa di github ku ga ada file php nya, karena males ngupload nya sih. Kalopun ku upload paling ku private
+Yeah, I’m just an NPC kid in a vocational high school.  
+Yes, I use Arch Linux, and yes, I spend a ridiculous amount of time configuring my slightly broken system instead of writing a single line of code.
+
+Most repositories here are either random experiments or unfinished ideas. A lot of stuff stays private, so this profile might look empty or inactive most of the time.
+
 
 ---
 
-## 💻 Tech Stack
+## Tools & Environment
 
-**Languages:**
-- PHP — Favorite aku, even though coding ku jadi-jadian
-- JavaScript — *Hopefully* coming soon
-
-**Tools:**
-- Linux (Arch btw)
+- Arch Linux as daily system, but I still use windows 11
 - Git & GitHub
 - VS Code / LazyVim
-- MySQL
-
+- Bash / CLI tools
 
 ---
 
-## 📊 GitHub Stats
+## Statistics
+
 <div align="center">
 
-![stats-card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abiyyu-202&theme=dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abiyyu-202&theme=dark" />
 
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abiyyu-202&theme=dark) ![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abiyyu-202&theme=dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abiyyu-202&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abiyyu-202&theme=dark" />
 
 </div>
 
 ---
 
-## 🎯 Fokus Belajar Saat Ini
+## Current State
 
-Bisa JS aja alhamdulilah
-
+- Mostly using Linux  
+- Configuring things  
+- Coding only when motivation exists
