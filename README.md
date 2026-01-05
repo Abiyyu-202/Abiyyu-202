@@ -17,7 +17,7 @@
 ## About Me
 
 Yeah, I’m just an NPC kid in a vocational high school.  
-Yes, I use Arch Linux, and yes, I spend a ridiculous amount of time configuring my slightly broken system instead of writing a single line of code.
+Yes, I use Arch Linux, and yes, I spend a ridiculous amount of time configuring my broke ass system instead of writing a single line of code.
 
 Most repositories here are either random experiments or unfinished ideas. A lot of stuff stays private, so this profile might look empty or inactive most of the time.
 
