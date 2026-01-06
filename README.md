@@ -4,7 +4,7 @@
 
 # Hi, I'm **ToHeartz** (Abiyyu) <img src="assets/gepeng.png" width="120" alt="Profile"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=38BDAE&center=true&vCenter=true&width=520&lines=Linux+User+(Arch+btw);Rarely+Coding+These+Days;Mostly+Configuring+Stuff;Learning+Things+at+My+Own+Pace" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=38BDAE&center=true&vCenter=true&width=520&lines=Linux+User+(Arch+BTW);Rarely+Coding+These+Days;Mostly+Configuring+Stuff;Learning+Things+at+My+Own+Pace" />
 
 <br/>
 
