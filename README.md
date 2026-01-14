@@ -26,7 +26,7 @@ Most repositories here are either random experiments or unfinished ideas. A lot 
 
 ## Tools & Environment
 
-- Arch Linux as daily system, but I still use windows 11
+- Arch Linux and Windows 11
 - Git & GitHub
 - VS Code / LazyVim
 - Bash / CLI tools
