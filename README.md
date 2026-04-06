@@ -40,6 +40,6 @@ Most repositories here are either random experiments or unfinished ideas. A lot 
 
 ## Current State
 
-- Mostly using Linux  
-- Configuring things  
+- Mostly using Windows right now (rip storage for linux)  
+- Doomscrolling
 - Coding only when motivation exists
