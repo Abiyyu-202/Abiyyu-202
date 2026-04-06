@@ -22,14 +22,6 @@ Yes, I use Arch Linux, and yes, I spend a ridiculous amount of time configuring 
 Most repositories here are either random experiments or unfinished ideas. A lot of stuff stays private, so this profile might look empty or inactive most of the time.
 
 
----
-
-## Tools & Environment
-
-- Arch Linux and Windows 11
-- Git & GitHub
-- VS Code / LazyVim
-- Bash / CLI tools
 
 ---
 
