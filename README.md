@@ -24,7 +24,7 @@ Interests : AI, Linux, coffee, and a sense of life
 -------------------------------------------------------------
 ```
 
-<p align="right">
+<p align="center">
 	<img src="https://skillicons.dev/icons?i=arch,linux,bash,php,js,git,vim&theme=dark" alt="Languages and tools" />
 </p>
 
@@ -32,7 +32,7 @@ Interests : AI, Linux, coffee, and a sense of life
 
 ## 🎭 Welcome to my little stage
 
-I am a vocational high school student who wants to become a professional coder, but currently spends more time configuring things than writing them. This profile is now Furina-themed: dramatic, blue, and slightly over the top.
+I am a vocational high school student who wants to become a professional coder, but currently spends more time configuring things than writing them. 
 
 ☕ Coffee-powered · 🐧 Linux user · 📷 Photography enjoyer · 🎮 Casual gamer
 
