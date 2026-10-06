@@ -9,7 +9,7 @@ Toheartz@cachy-os: ~/my_readme $ fastfetch
 <img src="assets/furina1.gif" alt="Furina" align="left" width="30%" style="margin-right: 18px; margin-bottom: 10px;" />
 
 ```text
-----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
+--------------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
 
 Username  : ToHeartz
 WhoamI    : Vocational high school student trying to become a coder
@@ -19,9 +19,9 @@ Hobbies   : Photography, vibe coding, coffee, ricing
 Games     : House Flipper, Roblox, Genshin Impact (hiatus)
 Interests : AI, Linux, coffee, and a sense of life
 
-╰────────🖥️ nothing special in here twin 🖥️───────────╯
+╰────────────────️ nothing special in here twin ️───────────────────╯
 
--------------------------------------------------------------
+-------------------------------------------------------------------
 ```
 
 <p align="center">
@@ -30,15 +30,15 @@ Interests : AI, Linux, coffee, and a sense of life
 
 <br clear="both" />
 
-## 🎭 Welcome to my little stage
+## Welcome to my profile
 
 I am a vocational high school student who wants to become a professional coder, but currently spends more time configuring things than writing them. 
 
-☕ Coffee-powered · 🐧 Linux user · 📷 Photography enjoyer · 🎮 Casual gamer
+Coffee-powered · Linux user · Photography enjoyer · Casual gamer
 
-> Nothing special in here, twin. Just a small corner for configs, experiments, and things I am learning at my own pace.
+> This account is only thing that i can actually flex it to my friend (even though it's useless lmao)
 
-## ☕ About me
+## About me
 
 ```text
 Username  : ToHeartz
@@ -53,7 +53,7 @@ Interests : AI, Linux, coffee, and a sense of life
 <table width="100%">
 	<tr>
 		<td width="50%" valign="top">
-			<h2>💻 Experience</h2>
+			<h2>Experience</h2>
 			<ul>
 				<li>Learning Linux, Bash, and web development one configuration at a time.</li>
 				<li>Making my desktop feel like mine through ricing and small quality-of-life tweaks.</li>
@@ -68,7 +68,7 @@ Interests : AI, Linux, coffee, and a sense of life
 			<p align="center"><small>Every little slice is part of the performance.</small></p>
 		</td>
 		<td width="50%" align="center" valign="top">
-			<h2>🌙 Daily inspo</h2>
+			<h2>Daily inspo</h2>
             <br>
 			<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true" alt="Daily quote" width="280" />
 			<br><br>
@@ -77,7 +77,7 @@ Interests : AI, Linux, coffee, and a sense of life
 	</tr>
 </table>
 
-## 📅 Commit stats & activity
+## Commit stats & activity
 
 <p align="center">
 	<a href="https://github.com/Abiyyu-202">
@@ -89,13 +89,13 @@ Interests : AI, Linux, coffee, and a sense of life
 </p>
 
 <!--START_SECTION:waka-->
-## ⏱️ Coding time
+## Coding time
 
 This section is updated automatically by WakaTime.
 
 <!--END_SECTION:waka-->
 
-## 🧋 Cutie counter
+## Cutie counter
 
 <table width="100%">
 	<tr>
@@ -112,7 +112,7 @@ This section is updated automatically by WakaTime.
 	</tr>
 </table>
 
-## 📬 Contact me
+## Contact me
 
 Feel free to reach out. If I forget to reply, poke me again ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
