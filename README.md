@@ -53,7 +53,7 @@ Interests : AI, Linux, coffee, and a sense of life
 <table width="100%">
 	<tr>
 		<td width="50%" valign="top">
-			<h2>Experience</h2>
+			<h2 align="center">Experience</h2>
 			<ul>
 				<li>Learning Linux, Bash, and web development one configuration at a time.</li>
 				<li>Making my desktop feel like mine through ricing and small quality-of-life tweaks.</li>
