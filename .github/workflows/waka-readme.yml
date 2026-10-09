@@ -12,10 +12,14 @@ jobs:
   update-readme:
     name: Update README with WakaTime stats
     runs-on: ubuntu-latest
+    env:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
     steps:
-      - uses: anmol098/waka-readme-stats@v5
+      - name: Update README with WakaTime stats
+        if: ${{ env.WAKATIME_API_KEY != '' }}
+        uses: anmol098/waka-readme-stats@v5
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ env.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
@@ -27,3 +31,6 @@ jobs:
           SHOW_COMMIT: "True"
           SHOW_PROFILE_VIEWS: "False"
           COMMIT_MESSAGE: "docs: update coding activity"
+      - name: Skip update when WakaTime key is missing
+        if: ${{ env.WAKATIME_API_KEY == '' }}
+        run: echo "Skipping README update because WAKATIME_API_KEY is not configured."
